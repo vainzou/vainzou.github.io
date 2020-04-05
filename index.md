@@ -1,6 +1,9 @@
 ---
-title: Hello Wordl!
+title: index
 layout: default
 ---
 
-Hellow *Wordl*, my name is __Vincent__!
+# Hello, my name is Vincent.
+# Welcome to my personal website!
+
+<span class='disclaimer'>There is nothing else, for now :(</span>
