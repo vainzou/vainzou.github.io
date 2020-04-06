@@ -1,8 +1,9 @@
 # vainzou.github.io
 
-This is my personal website, hosted by Github pages./
+This is my personal website, hosted by Github pages.
+
 It's accessible from the domain name vincentdubois.fr
 
 Resources:
-- Jekyll
+- Jekyll https://jekyllrb.com/
 - Fonts VG5000 from Velvetyne : https://velvetyne.fr/fonts/vg5000/
