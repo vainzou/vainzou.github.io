@@ -1,1 +1,11 @@
-name: Hello!
+title: Vincent Dubois
+email: vainzou@gmail.com
+description: Personal website of Vincent Dubois
+url: https://vincentdubois.fr
+intro:
+  - title: What
+    body: I'm currently working for a digital agency as a front-end developer and product specialist. I code interactive product pages there.
+  - title: Where
+    body: I live in Amsterdam since 5 years after studying in France and Switerzland.
+  - title: Else
+    body: I like to wake-up early to train for triathlons and to trek in remote areas.

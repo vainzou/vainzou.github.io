@@ -1,0 +1,8 @@
+<div class="intro">
+    {% for intro in site.intro %}
+    <div class="intro-part">
+        <h3 class="intro-title">{{ intro.title }}</h3>
+        <p class="intro-body">{{ intro.body }}</p>
+    </div>
+    {% endfor %}
+</div>
