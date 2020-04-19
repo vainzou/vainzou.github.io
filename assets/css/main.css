@@ -100,7 +100,11 @@ h1{
 }
 
 .intro-part{
-    margin:5% 0px;
+    padding:3% 3%;
+}
+
+.intro-part:hover{
+    background-color: lightgrey;
 }
 
 .intro-title{
@@ -109,7 +113,11 @@ h1{
     font-weight:600;
 }
 
-footer a{
+footer {
+    color: #c4c4c4;
+}
+
+footer a {
     color: #c4c4c4;
 }
 
